@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/m-r--camp___react-app/static/css/main.ec7efffc.css",
+    "main.js": "/m-r--camp___react-app/static/js/main.16362d58.js",
+    "static/js/592.d9f09aeb.chunk.js": "/m-r--camp___react-app/static/js/592.d9f09aeb.chunk.js",
+    "index.html": "/m-r--camp___react-app/index.html",
+    "main.ec7efffc.css.map": "/m-r--camp___react-app/static/css/main.ec7efffc.css.map",
+    "main.16362d58.js.map": "/m-r--camp___react-app/static/js/main.16362d58.js.map",
+    "592.d9f09aeb.chunk.js.map": "/m-r--camp___react-app/static/js/592.d9f09aeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7efffc.css",
+    "static/js/main.16362d58.js"
+  ]
+}
